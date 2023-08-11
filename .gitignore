@@ -1,0 +1,60 @@
+# Prerequisites
+*.d
+/*.zip
+/*.rar
+/*.7z
+**desktop.ini
+.vscode/ffmpeg/in
+.vscode/ffmpeg/out
+
+# Object files
+/*.o
+/*.ko
+/*.elf
+/game.iso
+/game.bin
+/game.cue
+/game.map
+/game.raw
+cd/0.bin
+
+# Linker output
+/*.ilk
+/*.map
+/*.exp
+
+# Precompiled Headers
+/*.gch
+/*.pch
+
+# Libraries
+/*.lib
+/*.a
+/*.la
+/*.lo
+
+# Shared objects (inc. Windows DLLs)
+/*.dll
+/*.so
+/*.so.*
+/*.dylib
+
+# Executables
+/*.out
+/*.app
+/*.hex
+
+# Debug files
+/*.dSYM/
+/*.su
+/*.idb
+/*.pdb
+
+# Kernel Module Compile Results
+/*.mod*
+/*.cmd
+/*.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
